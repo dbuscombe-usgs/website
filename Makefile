@@ -19,5 +19,5 @@ clean:
 gen-production: clean
 	hyde gen -c production.yaml
 
-publish: CV gen-production
-	rsync -e ssh -r deploy_production/ #jakevdp.ovid.u.washington.edu:~/public_html/
+#publish: CV gen-production
+#	rsync -e ssh -r deploy_production/ #jakevdp.ovid.u.washington.edu:~/public_html/

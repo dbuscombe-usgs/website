@@ -5,7 +5,8 @@ body {
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#988181;
   font-weight:300;
-}
+  background-image: url("../images/P1020295sm.JPG")
+}.JPG
 
 h1, h2, h3, h4, h5, h6 {
   color:#534e74;
@@ -33,14 +34,14 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#39c;
+  color:#334dcc;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#777;
+  color:#030303;
   margin-top:-0.6em;
   display:block;
 }
@@ -51,7 +52,7 @@ a small {
 }
 
 blockquote {
-  border-left:1px solid #e5e5e5;
+  border-left:1px solid #030303;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
@@ -65,9 +66,9 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background: #030303;
   border-radius:5px;
-  border:1px solid #e5e5e5;
+  border:1px solid #030303;
   overflow-x: auto;
 }
 
@@ -79,16 +80,16 @@ table {
 th, td {
   text-align:left;
   padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  border-bottom:1px solid #030303;
 }
 
 dt {
-  color:#444;
+  color:#030303;
   font-weight:700;
 }
 
 th {
-  color:#444;
+  color:#030303;
 }
 
 img {
@@ -250,6 +251,6 @@ footer {
   body {
     padding:0.4in;
     font-size:12pt;
-    color:#444;
+    color:#030303;
   }
 }
