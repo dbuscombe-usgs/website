@@ -1,6 +1,6 @@
-My Personal Web Page, built with [Hyde](http://hyde.github.io/)
+My web pages, built with [Hyde](http://hyde.github.io/)
 
-See the rendered version at http://www.
+See the rendered version at https://dbuscombe-usgs.github.io/
 
 Building
 ========
